@@ -1,0 +1,21 @@
+img {
+	width: 300px;
+ 	height: auto;
+}
+
+aside {
+	border: none;
+	display: block;
+	margin: 20px 10px 0 0;
+	padding: 8px;
+	float: left;
+}
+
+input {
+	width: 80px;
+}
+
+dl {
+	float: left;
+	width: 40%;
+}
